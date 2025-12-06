@@ -1,10 +1,9 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hello!&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hello!+I'm+Jereme&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
 </div>
 
 ###
 
-<h2 align="center">I'm Jereme :D</h2>
 
 ###
 
@@ -21,10 +20,10 @@
 </div>
 
 
-
-
 ###
-
+<div align=center>
+  <h2>Tech Stack</h2>
+</div>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="20" />
