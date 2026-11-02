@@ -2,6 +2,13 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hello!+I'm+Jereme&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
 </div>
 
+<p align="center">
+  <a href="https://github.com/yalongwastaken/git-koi">
+    <img src="koi/koi.gif" width="256" alt="My koi, grown from my GitHub activity" />
+  </a>
+</p>
+
+
 ###
 
 
